@@ -20,7 +20,7 @@
 
 ```js
 const me = {
-  name:      "abdikawter",
+  name:      "Abdisa Wolde",
   location:  "Ethiopia 🇪🇹",
   role:      "Full-Stack, Mobile & AI Engineer",
   building:  ["iOS inventory app", "P2P rental marketplace", "3D website"],
